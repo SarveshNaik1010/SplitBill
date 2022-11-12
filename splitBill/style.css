@@ -1,0 +1,21 @@
+body {
+  font-family: sono;
+}
+
+p,
+label {
+  font-size: 24px;
+}
+
+form {
+  margin: 24px;
+}
+
+button {
+  font-family: sono;
+  margin: 12px;
+}
+
+.inputs {
+  margin: 12px;
+}
